@@ -47,6 +47,6 @@ public class DrawGraph {
     }
 
     public static void main(String args[]) {
-        DrawGraph.drawGraph("1");
+        DrawGraph.drawGraph("example1.dat");
     }
 }

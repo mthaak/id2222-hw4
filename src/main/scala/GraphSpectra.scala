@@ -10,7 +10,7 @@ object GraphSpectra {
   type Point = (Int, Int)
 
   def main(args: Array[String]): Unit = {
-    graphSpectra("1", 4)
+    graphSpectra("example1.dat", 4)
   }
 
   def graphSpectra(filename: String, k: Int): Unit = {
