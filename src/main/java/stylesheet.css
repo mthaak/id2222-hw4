@@ -1,0 +1,31 @@
+node.cluster1 {
+	size: 10px;
+	fill-mode: plain;   /* Default.          */
+	fill-color: red;    /* Default is black. */
+	stroke-mode: plain; /* Default is none.  */
+	stroke-color: blue; /* Default is black. */
+}
+
+node.cluster2 {
+	size: 10px;
+	fill-mode: plain;   /* Default.          */
+	fill-color: blue;   /* Default is black. */
+	stroke-mode: plain; /* Default is none.  */
+	stroke-color: blue; /* Default is black. */
+}
+
+node.cluster3 {
+	size: 10px;
+	fill-mode: plain;   /* Default.          */
+	fill-color: green;  /* Default is black. */
+	stroke-mode: plain; /* Default is none.  */
+	stroke-color: blue; /* Default is black. */
+}
+
+node.cluster4 {
+	size: 10px;
+	fill-mode: plain;   /* Default.          */
+	fill-color: black;  /* Default is black. */
+	stroke-mode: plain; /* Default is none.  */
+	stroke-color: blue; /* Default is black. */
+}
